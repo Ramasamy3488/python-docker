@@ -1,0 +1,24 @@
+Deploying Python Application on AWS server
+
+1. Python source code
+2. AWS server
+3. Docker tool
+
+Steps
+
+1. Write python project code.
+
+2. Create an EC2 instance in AWS cloud service.
+
+3. Connect the server with mobaxterm tool.
+
+4. Install the docker tool on the server and start it.
+
+5. Write a Dockerfile
+
+6. Build the dockerfile to create the image(os) based on the Dockerfile in which we deploy the python application.
+
+7. Run the image to create the container.
+
+8. ipaddress:portnumber/docs.
+
